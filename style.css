@@ -174,7 +174,7 @@ img {
 .firstView {
   padding: 300px 0;
   margin-left: 280px;
-  background-image: url(fv.png);
+  background-image: url(../image/fv.png);
   background-size: cover;
   background-position: bottom;
   position: relative;
