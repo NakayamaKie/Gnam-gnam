@@ -174,7 +174,7 @@ img {
 .firstView {
   padding: 300px 0;
   margin-left: 280px;
-  background-image: url(../image/fv.png);
+  background-image: url(fv.png);
   background-size: cover;
   background-position: bottom;
   position: relative;
@@ -324,7 +324,7 @@ img {
 *******************************/
 .fixedBg {
   height: 500px;
-  background-image: url(../image/fixed_bg.png);
+  background-image: url(fixed_bg.png);
   background-attachment: fixed;
   background-size: cover;
   background-position: center;
